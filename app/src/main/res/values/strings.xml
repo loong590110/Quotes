@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="quotes">名言警句</string>
+    <string name="default_quotes">What knowledge you in use and you will hate how poor you are, and the same, anythings you never know how hard it is until you do</string>
+    <string name="default_quotes_cn">书到用时方恨少，事非经过不知难</string>
+    <string name="start">start</string>
+</resources>
